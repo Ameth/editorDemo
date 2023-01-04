@@ -1,0 +1,14 @@
+{
+  "name": "editordemo",
+  "version": "1.0.0",
+  "description": "Demo de Monaco Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ameth Ordoñez <amethgabriel@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "monaco-editor": "^0.34.1"
+  }
+}
